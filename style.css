@@ -1,0 +1,51 @@
+.Titulo{
+    color: rgba(0, 0, 0, 0.532); 
+    text-align: center;
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(90deg, rgba(172,26,194,1) 0%, rgba(104,104,235,1) 35%, rgba(0,212,255,1) 100%);
+}
+.cuadro1{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 100px;  
+    width: 80%;
+    padding: 40px;
+    background: rgb(255, 255, 255);
+    display: block;
+}
+.boton{
+    text-align: center;
+}
+input[type="text"],
+input[type="password"]{
+    width: 100%;
+    height: 30px;
+    background: rgba(136, 136, 136, 0.525);
+    border: 0px;
+}
+input[type="submit"]{
+    width: 100%;
+    height: 30px;
+    margin-top: 30px;
+    border-color: rgb(136, 136, 136);
+    cursor: pointer;
+    font-size: 15px;
+    background: linear-gradient(90deg, rgba(172,26,194,1) 0%, rgba(104,104,235,1) 35%, rgba(0,212,255,1) 100%);
+}
+.Ingreso{
+    text-align: center;
+    color: white;
+} 
+/* 
+    ▄───▄
+    █▀█▀█
+    █▄█▄█
+    ─███──▄▄
+    ─████▐█─█
+    ─████───█
+    ─▀▀▀▀▀▀▀
+*/
